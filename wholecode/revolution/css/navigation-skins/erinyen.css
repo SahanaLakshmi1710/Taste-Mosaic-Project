@@ -89,7 +89,7 @@ website:    http://www.themepunch.com
   -webkit-transition: -webkit-transform 0.3s;
   transition: transform 0.3s;
   transform:translateX(200px);  
-  text-transform:uppercase;
+  text-transform:capitalize;
   color:#fff;
   font-weight:600;
   font-size:13px;
@@ -260,7 +260,7 @@ opacity:1
     color:#a8d8ee;
     font-size:13px;
     font-weight:700;
-    text-transform:uppercase;
+    text-transform:capitalize;
     font-family:"Roboto Slab"
     margin-bottom:5px;
 }

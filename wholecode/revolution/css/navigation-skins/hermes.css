@@ -189,7 +189,7 @@ website:    http://www.themepunch.com
     color:#fff;
     font-size:16px;
     font-weight:800;
-    text-transform:uppercase;
+    text-transform:capitalize;
    line-height:19px;
 }
 
