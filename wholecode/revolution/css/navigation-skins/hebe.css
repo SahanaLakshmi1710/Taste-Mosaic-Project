@@ -72,7 +72,7 @@ website:    http://www.themepunch.com
 }
 .hebe .tp-arr-titleholder {
   position:relative;
-  text-transform:uppercase;
+  text-transform:capitalize;
   color:#fff;
   font-weight:600;
   font-size:12px;
@@ -180,7 +180,7 @@ border-radius:6px;
     color:#a8d8ee;
     font-size:13px;
     font-weight:700;
-    text-transform:uppercase;
+    text-transform:capitalize;
     font-family:"Roboto Slab"
     margin-bottom:5px;
 }
